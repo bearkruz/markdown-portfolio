@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Bear Kruz](https://pbs.twimg.com/media/CjhE6_dVAAEFu-H?format=jpg&name=large)
